@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"Nesse episódio nós falamos dos tipos diferentes de jejum. Como assim? Tem mais de um tipo de jejum? Sim, tem vários. Ouve o episódio pra entender mais sobre jejum e como você pode usar esta informação pra se tornar uma versão melhor de você mesmo. :) ","categories": ["General"],
         "tags": ["Jejum"],
         "url": "https://raphaelaggio.github.io/general/episodio-3/"
+      },{
+        "title": "Episódio 4 - Porque jejum mal quebrado é pior que meu vô pelado",
+        "excerpt":"Nesse episódio, nós falamos de como quebrar o jejum. Como assim? Num é só comer de novo? Mais ou menos. Ouve o episódio pra entender mais sobre a importância de quebrar o jejum com algo nutritivo e que não vai fazer com que você coma descontroladamente. Receita de caldo de...","categories": ["General"],
+        "tags": ["Jejum","Caldo de osso"],
+        "url": "https://raphaelaggio.github.io/general/episodio-4/"
       }]
