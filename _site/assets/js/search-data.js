@@ -18,4 +18,9 @@ var store = [{
         "excerpt":"Nesse episódio, nós falamos de como quebrar o jejum. Como assim? Num é só comer de novo? Mais ou menos. Ouve o episódio pra entender mais sobre a importância de quebrar o jejum com algo nutritivo e que não vai fazer com que você coma descontroladamente. Receita de caldo de...","categories": ["General"],
         "tags": ["Jejum","Caldo de osso"],
         "url": "https://raphaelaggio.github.io/general/episodio-4/"
+      },{
+        "title": "Episódio 5 - Porque vovó que faz exercício sai da beira do precipício",
+        "excerpt":"Bem vindos! Nesse episódio nós falamos do famoso exercício. Por que falamos tanto de exercício quando falamos de saúde? Como que o exercício nos ajuda a manter uma vida mais autônoma e feliz? Ouvi lá e bora mexer esses glúteos. ","categories": ["General"],
+        "tags": ["Exercício","Flexibilidade"],
+        "url": "https://raphaelaggio.github.io/general/episodio-5/"
       }]
