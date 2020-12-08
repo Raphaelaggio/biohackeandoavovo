@@ -23,4 +23,9 @@ var store = [{
         "excerpt":"Bem vindos! Nesse episódio nós falamos do famoso exercício. Por que falamos tanto de exercício quando falamos de saúde? Como que o exercício nos ajuda a manter uma vida mais autônoma e feliz? Ouvi lá e bora mexer esses glúteos. ","categories": ["General"],
         "tags": ["Exercício","Flexibilidade"],
         "url": "https://raphaelaggio.github.io/general/episodio-5/"
+      },{
+        "title": "Episódio 6 - Porque não é o doce, é a dose",
+        "excerpt":"Opa! Temos mais um episódio pra você! Uhhhhuuuuuuu. Nesse episódio falamos do famoso açúcar. O açúcar é mesmo tão mau? Podemos ou devemos comer açúcar? O que é que o açúcar faz no nosso corpo? Se interessou? Então escuta! :) ","categories": ["General"],
+        "tags": ["Açúcar","Exercício"],
+        "url": "https://raphaelaggio.github.io/general/episodio-6/"
       }]
