@@ -28,4 +28,9 @@ var store = [{
         "excerpt":"Opa! Temos mais um episódio pra você! Uhhhhuuuuuuu. Nesse episódio falamos do famoso açúcar. O açúcar é mesmo tão mau? Podemos ou devemos comer açúcar? O que é que o açúcar faz no nosso corpo? Se interessou? Então escuta! :) ","categories": ["General"],
         "tags": ["Açúcar","Exercício"],
         "url": "https://raphaelaggio.github.io/general/episodio-6/"
+      },{
+        "title": "Episódio 7 - Porque experimentar é preciso: 5 dias de jejum",
+        "excerpt":"Bem vindos a mais um episódio! O PH resolveu experimentar e fazer 5 dias de jejum. Isso mesmo, 5 dias sem comer nadinha! Nesse episódio você vai escutar relatos diários de como o PH se sentiu durante esse experimento e entender ainda mais sobre o que o jejum faz no...","categories": ["General"],
+        "tags": ["Jejum de 5 dias","Jejum","Diário"],
+        "url": "https://raphaelaggio.github.io/general/episodio-7/"
       }]
