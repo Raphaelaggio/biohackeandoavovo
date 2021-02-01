@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"Bem vindos a mais um episódio! O PH resolveu experimentar e fazer 5 dias de jejum. Isso mesmo, 5 dias sem comer nadinha! Nesse episódio você vai escutar relatos diários de como o PH se sentiu durante esse experimento e entender ainda mais sobre o que o jejum faz no...","categories": ["General"],
         "tags": ["Jejum de 5 dias","Jejum","Diário"],
         "url": "https://raphaelaggio.github.io/general/episodio-7/"
+      },{
+        "title": "Episódio 8 - Porque comendo gordura boa a vovó rí a toa",
+        "excerpt":"Bem vindos!! Nesse episódio falamos da famosa dieta cetogênica. Nunca ouviu falar? Como assim! Vai lá e escuta pra saber como a gordura pode ser sua amiga. :) ","categories": ["General"],
+        "tags": ["Gordura","Cetogênica","Longevidade","Flexibilidade metabólica"],
+        "url": "https://raphaelaggio.github.io/general/episodio-8/"
       }]
